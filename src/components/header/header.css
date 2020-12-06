@@ -1,0 +1,31 @@
+  .ml--5{
+    margin-left: 5%;
+  }
+  .mr--2{
+    margin-left:2%;
+  }
+  .ml--1{
+      margin-left:1%;
+  }
+  .navbar{
+      margin-top:1%;
+  }
+  
+  .img-style{
+    height: 50px;
+  }
+  .left-nav a{
+    color:#2A3956 !important;
+    font-weight: bold;
+    margin-left:20px;
+  }
+  .right-nav a{
+    color:#BABFC8 !important;
+    font-weight: bold;
+    margin-right:20px;
+  }
+  .try-btn{
+    background-color: #182848 !important;
+    border:2px solid #182848 !important;
+    padding:8px 24px;
+  }

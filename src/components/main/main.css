@@ -1,0 +1,27 @@
+.ce{
+    color:#64DACE;
+    font-size: 3.0rem;
+   font-weight: bold;
+}
+.text{
+    color:#1D2D4C;
+    font-size: 3.0rem;
+    font-weight: bold;
+}
+.text-desc{
+    color:#1D2D4C; 
+}
+.text-container{
+    margin-top: 30%;
+    margin-left:20%
+}
+.choose-btn{
+    background-color: #4AD4C6;
+    border: 2px solid #4AD4C6;
+    width:42%;
+}
+.nurse-image{
+    width: 75%;
+    margin-top: 2%;
+    margin-left: 10%;
+}
